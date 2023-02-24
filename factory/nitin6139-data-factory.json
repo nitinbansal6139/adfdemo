@@ -1,0 +1,9 @@
+{
+	"name": "nitin6139-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15dabe06-98e3-4d72-a206-7f163f3fc5a8",
+		"tenantId": "9584c0f9-2caa-4ec1-b5fe-5271e58ce5f5"
+	}
+}
